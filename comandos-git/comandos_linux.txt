@@ -1,0 +1,4 @@
+rm: Sirve para eliminar un file o directorio
+cd: Permite cambiar de directorios
+ls: lista todos los archivos o folders del directoriom
+mkdir: crea un directorio nuevo
